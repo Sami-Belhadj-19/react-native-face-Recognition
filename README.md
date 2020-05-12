@@ -1,5 +1,5 @@
 # react-native-face-Recognition
-<span style="color: green"> ***install nodejs/npm  </span>
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `install nodejs/npm`
  
 
 =>it depend to your operating system
